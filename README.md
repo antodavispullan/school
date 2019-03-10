@@ -4,11 +4,12 @@ Fictional School
 2.  Install laravel 5.7.
 3.  Configure the .env file.
 4.  Upload the following files.
-         c:/xampp/htdocs/school/app/course.php
-         c:/xampp/htdocs/school/app/mark.php
-         c:/xampp/htdocs/school/app/student.php
-         c:/xampp/htdocs/school/app/test.php
-         c:/xampp/htdocs/school/app/User.php
+         
+      c:/xampp/htdocs/school/app/course.php
+      c:/xampp/htdocs/school/app/mark.php
+      c:/xampp/htdocs/school/app/student.ph
+      c:/xampp/htdocs/school/app/test.php
+      c:/xampp/htdocs/school/app/User.php
    
 
 5.    c:/xampp/htdocs/school/app/Http/Controllers/Controller.php
