@@ -28,4 +28,7 @@ Fictional School
       c:/xampp/htdocs/school/app/resources/views/test/index.blade.php
       c:/xampp/htdocs/school/app/resources/views/welcome.blade.php
       
+8.    In the browser type the following  http://localhost:8000
+     
+      
 
